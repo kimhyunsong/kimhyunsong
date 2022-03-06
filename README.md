@@ -1,6 +1,6 @@
 <div align='center'>
   
-### Hi there 👋
+# 안녕하세요! 👋
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=kimhyunsong)](https://github.com/kimhyunsong)
 
