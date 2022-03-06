@@ -3,8 +3,9 @@
 # Kim Hyun Song
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=kimhyunsong)](https://github.com/kimhyunsong)
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=hyun0104)](https://solved.ac/profile/hyun0104)
   <br>
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=hyun0104)](https://solved.ac/profile/hyun0104)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyunsong)](https://github.com/kimhyunsong/github-readme-stats)
   ### Tech Stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
