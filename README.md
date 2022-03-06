@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyunsong)](https://github.com/kimhyunsong/github-readme-stats)
 
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=kimhyunsong)](https://solved.ac/profile/kimhyunsong)
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=hyun0104)](https://solved.ac/profile/hyun0104)
  
   
 #### Tech Stack
