@@ -1,6 +1,6 @@
 <div align='center'>
   
-# 안녕하세요! 👋
+# Kim Hyun Song
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=kimhyunsong)](https://github.com/kimhyunsong)
 
