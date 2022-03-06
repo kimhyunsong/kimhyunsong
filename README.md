@@ -7,9 +7,9 @@
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=hyun0104)](https://solved.ac/profile/hyun0104)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyunsong)](https://github.com/kimhyunsong/github-readme-stats)
-### Tech Stack
+
 <div align='center'>
-  
+  <h3> Tech Stack </h3>  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
